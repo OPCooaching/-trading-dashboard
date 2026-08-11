@@ -1,0 +1,36 @@
+{
+  "updated_at": "2026-08-10T22:08:03Z",
+  "signal_date": "2026-08-10",
+  "tracking_start_date": "2026-08-09",
+  "currency": "$",
+  "status": "8 achats en attente pour la prochaine ouverture",
+  "summary": {
+    "initial_capital": 10000.0,
+    "equity": 10000.0,
+    "cash": 10000.0,
+    "invested": 0.0,
+    "return_pct": 0.0,
+    "max_drawdown_pct": 0.0,
+    "open_positions": 0,
+    "max_positions": 10,
+    "closed_trades": 0,
+    "fees_total": 0.0,
+    "slippage_total": 0.0
+  },
+  "pending_orders": [
+    {"side":"BUY","symbol":"CRL","name":"Charles River Laboratories","rank":1,"signal_date":"2026-08-10"},
+    {"side":"BUY","symbol":"DVA","name":"DaVita","rank":3,"signal_date":"2026-08-10"},
+    {"side":"BUY","symbol":"AMD","name":"Advanced Micro Devices","rank":4,"signal_date":"2026-08-10"},
+    {"side":"BUY","symbol":"ZBRA","name":"Zebra Technologies","rank":5,"signal_date":"2026-08-10"},
+    {"side":"BUY","symbol":"PGR","name":"Progressive Corporation","rank":6,"signal_date":"2026-08-10"},
+    {"side":"BUY","symbol":"TTWO","name":"Take-Two Interactive","rank":7,"signal_date":"2026-08-10"},
+    {"side":"BUY","symbol":"WELL","name":"Welltower","rank":9,"signal_date":"2026-08-10"},
+    {"side":"BUY","symbol":"ACGL","name":"Arch Capital Group","rank":10,"signal_date":"2026-08-10"}
+  ],
+  "positions": [],
+  "recent_closed_trades": [],
+  "equity_history": [
+    {"date":"2026-08-09","equity":10000.0},
+    {"date":"2026-08-10","equity":10000.0}
+  ]
+}
