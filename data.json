@@ -1,36 +1,34 @@
 {
-  "updated_at": "2026-08-10T22:08:03Z",
-  "signal_date": "2026-08-10",
+  "updated_at": "2026-08-11T22:13:13.074975+00:00",
+  "signal_date": "2026-08-11",
   "tracking_start_date": "2026-08-09",
   "currency": "$",
-  "status": "8 achats en attente pour la prochaine ouverture",
+  "status": "1 achat en attente pour la prochaine ouverture",
   "summary": {
     "initial_capital": 10000.0,
-    "equity": 10000.0,
-    "cash": 10000.0,
-    "invested": 0.0,
-    "return_pct": 0.0,
-    "max_drawdown_pct": 0.0,
-    "open_positions": 0,
+    "equity": 9852.679704,
+    "cash": 2041.3923162223587,
+    "invested": 7811.287387688667,
+    "return_pct": -1.4732029599999974,
+    "max_drawdown_pct": -1.4732029599999974,
+    "open_positions": 8,
     "max_positions": 10,
     "closed_trades": 0,
-    "fees_total": 0.0,
-    "slippage_total": 0.0
+    "fees_total": 39.595063103371345,
+    "slippage_total": 78.40606555123038,
+    "trade_stats": {"winners":0,"losers":0,"win_rate_pct":0.0,"avg_gain_pct":0.0,"avg_loss_pct":0.0,"avg_trade_pct":0.0,"best_trade_pct":0.0,"worst_trade_pct":0.0,"profit_factor":null,"net_closed_pnl":0.0}
   },
-  "pending_orders": [
-    {"side":"BUY","symbol":"CRL","name":"Charles River Laboratories","rank":1,"signal_date":"2026-08-10"},
-    {"side":"BUY","symbol":"DVA","name":"DaVita","rank":3,"signal_date":"2026-08-10"},
-    {"side":"BUY","symbol":"AMD","name":"Advanced Micro Devices","rank":4,"signal_date":"2026-08-10"},
-    {"side":"BUY","symbol":"ZBRA","name":"Zebra Technologies","rank":5,"signal_date":"2026-08-10"},
-    {"side":"BUY","symbol":"PGR","name":"Progressive Corporation","rank":6,"signal_date":"2026-08-10"},
-    {"side":"BUY","symbol":"TTWO","name":"Take-Two Interactive","rank":7,"signal_date":"2026-08-10"},
-    {"side":"BUY","symbol":"WELL","name":"Welltower","rank":9,"signal_date":"2026-08-10"},
-    {"side":"BUY","symbol":"ACGL","name":"Arch Capital Group","rank":10,"signal_date":"2026-08-10"}
+  "pending_orders": [{"side":"BUY","symbol":"VLO","name":"Valero Energy","rank":9,"signal_date":"2026-08-11"}],
+  "positions": [
+    {"symbol":"ACGL","name":"Arch Capital Group","entry_date":"2026-08-11","entry_price":99.00019660949707,"current_price":98.26000213623047,"shares":10.050736359107777,"current_value":987.5853761166194,"return_pct":-1.241462388338066},
+    {"symbol":"AMD","name":"Advanced Micro Devices","entry_date":"2026-08-11","entry_price":479.4873901367188,"current_price":474.32000732421875,"shares":2.072107811431261,"current_value":982.8421922946467,"return_pct":-1.569839791160632},
+    {"symbol":"CRL","name":"Charles River Laboratories","entry_date":"2026-08-11","entry_price":277.6085852050781,"current_price":282.0,"shares":3.573651889169194,"current_value":1007.7698327457127,"return_pct":1.0764903823444083},
+    {"symbol":"DVA","name":"DaVita","entry_date":"2026-08-11","entry_price":185.01179260253906,"current_price":178.33999633789062,"shares":5.354283062672908,"current_value":954.8828217891163,"return_pct":-4.085717900296326},
+    {"symbol":"PGR","name":"Progressive Corporation","entry_date":"2026-08-11","entry_price":214.79669815063477,"current_price":212.35000610351562,"shares":4.6049904842084945,"current_value":977.8697574283052,"return_pct":-1.6309188033792332},
+    {"symbol":"TTWO","name":"Take-Two Interactive","entry_date":"2026-08-11","entry_price":255.90369506835938,"current_price":250.5,"shares":3.8595385344470396,"current_value":966.8144028789834,"return_pct":-2.5986196577972076},
+    {"symbol":"WELL","name":"Welltower","entry_date":"2026-08-11","entry_price":235.6936006164551,"current_price":226.00999450683594,"shares":4.1842704482437565,"current_value":945.6869410226874,"return_pct":-4.5856289329528455},
+    {"symbol":"ZBRA","name":"Zebra Technologies","entry_date":"2026-08-11","entry_price":381.8607864379883,"current_price":383.05999755859375,"shares":2.5788024583838074,"current_value":987.8360634125968,"return_pct":-0.18503078520255567}
   ],
-  "positions": [],
   "recent_closed_trades": [],
-  "equity_history": [
-    {"date":"2026-08-09","equity":10000.0},
-    {"date":"2026-08-10","equity":10000.0}
-  ]
+  "equity_history": [{"date":"2026-08-07","equity":10000.0},{"date":"2026-08-10","equity":10000.0},{"date":"2026-08-11","equity":9852.679704}]
 }
