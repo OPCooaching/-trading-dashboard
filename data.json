@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T23:11:03.302077+00:00",
+  "updated_at": "2026-09-07T23:40:03.990033+00:00",
   "signal_date": "2026-09-04",
   "tracking_start_date": "2026-08-09",
   "currency": "$",
@@ -87,8 +87,8 @@
       "name": "Adobe Inc.",
       "progression_pct": 17.787628930343292,
       "technical_status": "VENTE",
-      "technical_since": "2025-10-07",
-      "technical_label": "Vente depuis 2025-10-07",
+      "technical_since": "2025-10-10",
+      "technical_label": "Vente depuis 2025-10-10",
       "instruction": "NE PAS ACHETER"
     },
     {
@@ -107,8 +107,8 @@
       "name": "Ross Stores",
       "progression_pct": 16.80598756785754,
       "technical_status": "POINT_ENTREE",
-      "technical_since": "2025-10-07",
-      "technical_label": "Point d'entrée depuis 2025-10-07",
+      "technical_since": "2025-10-10",
+      "technical_label": "Point d'entrée depuis 2025-10-10",
       "instruction": "AUCUN ORDRE ACTIF"
     },
     {
