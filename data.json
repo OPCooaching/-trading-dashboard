@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-07T23:40:03.990033+00:00",
-  "signal_date": "2026-09-04",
+  "updated_at": "2026-09-08T23:34:02.340026+00:00",
+  "signal_date": "2026-09-08",
   "tracking_start_date": "2026-08-09",
   "currency": "$",
   "status": "Aucun ordre à exécuter à la prochaine ouverture",
   "summary": {
     "initial_capital": 10000.0,
-    "equity": 9945.462692,
+    "equity": 9896.862569,
     "cash": 67.19813114459407,
-    "invested": 9878.264560471587,
-    "return_pct": -0.5453730800000112,
+    "invested": 9829.664437469279,
+    "return_pct": -1.0313743099999884,
     "max_drawdown_pct": -2.4887536663214194,
     "open_positions": 10,
     "max_positions": 10,
@@ -35,7 +35,7 @@
       "rank": 1,
       "symbol": "ZBRA",
       "name": "Zebra Technologies",
-      "progression_pct": 37.802655925169134,
+      "progression_pct": 38.085457055728014,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-07-17",
       "technical_label": "Point d'entrée depuis 2026-07-17",
@@ -45,7 +45,7 @@
       "rank": 2,
       "symbol": "HAS",
       "name": "Hasbro",
-      "progression_pct": 20.867386693984336,
+      "progression_pct": 20.84247936754007,
       "technical_status": "VENTE",
       "technical_since": "2026-07-08",
       "technical_label": "Vente depuis 2026-07-08",
@@ -53,83 +53,83 @@
     },
     {
       "rank": 3,
-      "symbol": "FCX",
-      "name": "Freeport-McMoRan",
-      "progression_pct": 18.86171397166534,
-      "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-07-30",
-      "technical_label": "Point d'entrée depuis 2026-07-30",
-      "instruction": "AUCUN ORDRE ACTIF"
-    },
-    {
-      "rank": 4,
-      "symbol": "INTU",
-      "name": "Intuit",
-      "progression_pct": 18.829830533372704,
-      "technical_status": "VENTE",
-      "technical_since": "2025-11-05",
-      "technical_label": "Vente depuis 2025-11-05",
-      "instruction": "NE PAS ACHETER"
-    },
-    {
-      "rank": 5,
-      "symbol": "CRL",
-      "name": "Charles River Laboratories",
-      "progression_pct": 18.55242088148461,
-      "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-07-22",
-      "technical_label": "Point d'entrée depuis 2026-07-22",
-      "instruction": "CONSERVER"
-    },
-    {
-      "rank": 6,
-      "symbol": "ADBE",
-      "name": "Adobe Inc.",
-      "progression_pct": 17.787628930343292,
-      "technical_status": "VENTE",
-      "technical_since": "2025-10-10",
-      "technical_label": "Vente depuis 2025-10-10",
-      "instruction": "NE PAS ACHETER"
-    },
-    {
-      "rank": 7,
       "symbol": "SWK",
       "name": "Stanley Black & Decker",
-      "progression_pct": 17.28380629822226,
+      "progression_pct": 19.661368065913322,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-07-09",
       "technical_label": "Point d'entrée depuis 2026-07-09",
       "instruction": "AUCUN ORDRE ACTIF"
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "progression_pct": 19.11520266125899,
+      "technical_status": "VENTE",
+      "technical_since": "2025-10-10",
+      "technical_label": "Vente depuis 2025-10-10",
+      "instruction": "NE PAS ACHETER"
+    },
+    {
+      "rank": 5,
+      "symbol": "INTU",
+      "name": "Intuit",
+      "progression_pct": 18.973587749924192,
+      "technical_status": "VENTE",
+      "technical_since": "2025-11-05",
+      "technical_label": "Vente depuis 2025-11-05",
+      "instruction": "NE PAS ACHETER"
+    },
+    {
+      "rank": 6,
+      "symbol": "FDS",
+      "name": "FactSet",
+      "progression_pct": 18.052917626784094,
+      "technical_status": "POINT_ENTREE",
+      "technical_since": "2026-07-29",
+      "technical_label": "Point d'entrée depuis 2026-07-29",
+      "instruction": "AUCUN ORDRE ACTIF"
+    },
+    {
+      "rank": 7,
       "symbol": "ROST",
       "name": "Ross Stores",
-      "progression_pct": 16.80598756785754,
+      "progression_pct": 15.698090963684507,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2025-10-10",
       "technical_label": "Point d'entrée depuis 2025-10-10",
       "instruction": "AUCUN ORDRE ACTIF"
     },
     {
-      "rank": 9,
-      "symbol": "COF",
-      "name": "Capital One",
-      "progression_pct": 14.613180881486688,
+      "rank": 8,
+      "symbol": "FCX",
+      "name": "Freeport-McMoRan",
+      "progression_pct": 15.296519915528028,
       "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-08-20",
-      "technical_label": "Point d'entrée depuis 2026-08-20",
+      "technical_since": "2026-07-30",
+      "technical_label": "Point d'entrée depuis 2026-07-30",
       "instruction": "AUCUN ORDRE ACTIF"
     },
     {
-      "rank": 10,
-      "symbol": "RCL",
-      "name": "Royal Caribbean Group",
-      "progression_pct": 14.095025401442719,
-      "technical_status": "PAS_ENTREE",
-      "technical_since": "2026-08-26",
-      "technical_label": "Pas de point d'entrée",
+      "rank": 9,
+      "symbol": "T",
+      "name": "AT&T",
+      "progression_pct": 14.584335452282836,
+      "technical_status": "VENTE",
+      "technical_since": "2026-06-30",
+      "technical_label": "Vente depuis 2026-06-30",
       "instruction": "NE PAS ACHETER"
+    },
+    {
+      "rank": 10,
+      "symbol": "CRL",
+      "name": "Charles River Laboratories",
+      "progression_pct": 14.507698307097483,
+      "technical_status": "POINT_ENTREE",
+      "technical_since": "2026-07-22",
+      "technical_label": "Point d'entrée depuis 2026-07-22",
+      "instruction": "CONSERVER"
     }
   ],
   "positions": [
@@ -138,100 +138,100 @@
       "name": "Arch Capital Group",
       "entry_date": "2026-08-11",
       "entry_price": 99.00019660949707,
-      "current_price": 98.0999984741211,
+      "current_price": 95.70999908447266,
       "shares": 10.050736359107777,
-      "current_value": 985.9772214922663,
-      "return_pct": -1.4022778507733702
+      "current_value": 961.9559677284814,
+      "return_pct": -3.8044032271518646
     },
     {
       "symbol": "AMD",
       "name": "Advanced Micro Devices",
       "entry_date": "2026-08-11",
       "entry_price": 479.4873901367188,
-      "current_price": 477.57000732421875,
+      "current_price": 505.739990234375,
       "shares": 2.072107811431261,
-      "current_value": 989.5765426817983,
-      "return_pct": -0.8954047773745311
+      "current_value": 1047.947784317818,
+      "return_pct": 4.9503868571993515
     },
     {
       "symbol": "CRL",
       "name": "Charles River Laboratories",
       "entry_date": "2026-08-11",
       "entry_price": 277.6085852050781,
-      "current_price": 288.5,
+      "current_price": 280.760009765625,
       "shares": 3.573651889169194,
-      "current_value": 1030.9985700253126,
-      "return_pct": 3.4062676429303718
+      "current_value": 1003.3385393020872,
+      "return_pct": 0.6320440667450855
     },
     {
       "symbol": "DVA",
       "name": "DaVita",
       "entry_date": "2026-08-11",
       "entry_price": 185.01179260253906,
-      "current_price": 183.99000549316406,
+      "current_price": 180.05999755859375,
       "shares": 5.354283062672908,
-      "current_value": 985.1345701131437,
-      "return_pct": -1.0470469172709218
+      "current_value": 964.0921951929038,
+      "return_pct": -3.160672000991771
     },
     {
       "symbol": "MCO",
       "name": "Moody's Corporation",
       "entry_date": "2026-08-13",
       "entry_price": 482.8100885849688,
-      "current_price": 493.54998779296875,
+      "current_price": 481.25,
       "shares": 2.0378522646873525,
-      "current_value": 1005.7819603603166,
-      "return_pct": 1.7158768691424298
+      "current_value": 980.7164023807884,
+      "return_pct": -0.819031599675879
     },
     {
       "symbol": "PGR",
       "name": "Progressive Corporation",
       "entry_date": "2026-08-11",
       "entry_price": 214.79669815063477,
-      "current_price": 218.9499969482422,
+      "current_price": 214.89999389648438,
       "shares": 4.6049904842084945,
-      "current_value": 1008.2626524641342,
-      "return_pct": 1.4264629561737907
+      "current_value": 989.6124269497741,
+      "return_pct": -0.4496616851917379
     },
     {
       "symbol": "TTWO",
       "name": "Take-Two Interactive",
       "entry_date": "2026-08-11",
       "entry_price": 255.90369506835938,
-      "current_price": 214.69000244140625,
+      "current_price": 213.2899932861328,
       "shares": 3.8595385344470396,
-      "current_value": 828.6043373831365,
-      "return_pct": -16.522544576990594
+      "current_value": 823.2009480997799,
+      "return_pct": -17.066907148708577
     },
     {
       "symbol": "VLO",
       "name": "Valero Energy",
       "entry_date": "2026-08-12",
       "entry_price": 324.45239013671875,
-      "current_price": 370.7200012207031,
+      "current_price": 382.8500061035156,
       "shares": 3.0219431905264313,
-      "current_value": 1120.294783280854,
-      "return_pct": 13.691757040143626
+      "current_value": 1156.9509689375218,
+      "return_pct": 17.411765573515048
     },
     {
       "symbol": "WELL",
       "name": "Welltower",
       "entry_date": "2026-08-11",
       "entry_price": 235.6936006164551,
-      "current_price": 236.1699981689453,
+      "current_price": 237.25,
       "shares": 4.1842704482437565,
-      "current_value": 988.1991441000999,
-      "return_pct": -0.29639224864443925
+      "current_value": 992.7181638458312,
+      "return_pct": 0.15955084221841442
     },
     {
       "symbol": "ZBRA",
       "name": "Zebra Technologies",
       "entry_date": "2026-08-11",
       "entry_price": 381.8607864379883,
-      "current_price": 362.739990234375,
+      "current_price": 352.5400085449219,
       "shares": 2.5788024583838074,
-      "current_value": 935.4347785705245,
-      "return_pct": -5.479869500908197
+      "current_value": 909.131040714293,
+      "return_pct": -8.13770604038796
     }
   ],
   "recent_closed_trades": [],
@@ -315,6 +315,10 @@
     {
       "date": "2026-09-04",
       "equity": 9945.462692
+    },
+    {
+      "date": "2026-09-08",
+      "equity": 9896.862569
     }
   ]
 }
