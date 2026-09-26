@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-24T23:58:44.125534+00:00",
-  "signal_date": "2026-09-24",
+  "updated_at": "2026-09-26T00:02:14.582193+00:00",
+  "signal_date": "2026-09-25",
   "tracking_start_date": "2026-08-09",
   "currency": "$",
   "status": "Aucun ordre à exécuter à la prochaine ouverture",
   "summary": {
     "initial_capital": 10000.0,
-    "equity": 10056.351974,
+    "equity": 10102.4941,
     "cash": 67.19813114459407,
     "invested": 9989.1538427387,
-    "return_pct": 0.5635197399999958,
+    "return_pct": 1.0249409999999903,
     "max_drawdown_pct": -2.4887536663214194,
     "open_positions": 10,
     "max_positions": 10,
@@ -33,103 +33,103 @@
   "top10": [
     {
       "rank": 1,
-      "symbol": "ZBRA",
-      "name": "Zebra Technologies",
-      "progression_pct": 36.25609206830151,
-      "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-07-17",
-      "technical_label": "Point d'entrée depuis 2026-07-17",
-      "instruction": "CONSERVER"
-    },
-    {
-      "rank": 2,
-      "symbol": "CRL",
-      "name": "Charles River Laboratories",
-      "progression_pct": 32.697285153293684,
-      "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-07-22",
-      "technical_label": "Point d'entrée depuis 2026-07-22",
-      "instruction": "CONSERVER"
-    },
-    {
-      "rank": 3,
-      "symbol": "FCX",
-      "name": "Freeport-McMoRan",
-      "progression_pct": 27.40752886932667,
-      "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-07-30",
-      "technical_label": "Point d'entrée depuis 2026-07-30",
-      "instruction": "AUCUN ORDRE ACTIF"
-    },
-    {
-      "rank": 4,
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "progression_pct": 27.07089242985148,
+      "progression_pct": 40.48833547051416,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-03-06",
       "technical_label": "Point d'entrée depuis 2026-03-06",
       "instruction": "AUCUN ORDRE ACTIF"
     },
     {
+      "rank": 2,
+      "symbol": "FCX",
+      "name": "Freeport-McMoRan",
+      "progression_pct": 28.163531444270152,
+      "technical_status": "POINT_ENTREE",
+      "technical_since": "2026-07-30",
+      "technical_label": "Point d'entrée depuis 2026-07-30",
+      "instruction": "AUCUN ORDRE ACTIF"
+    },
+    {
+      "rank": 3,
+      "symbol": "ZBRA",
+      "name": "Zebra Technologies",
+      "progression_pct": 26.526021118293276,
+      "technical_status": "POINT_ENTREE",
+      "technical_since": "2026-07-17",
+      "technical_label": "Point d'entrée depuis 2026-07-17",
+      "instruction": "CONSERVER"
+    },
+    {
+      "rank": 4,
+      "symbol": "CRL",
+      "name": "Charles River Laboratories",
+      "progression_pct": 22.73843326254916,
+      "technical_status": "POINT_ENTREE",
+      "technical_since": "2026-07-22",
+      "technical_label": "Point d'entrée depuis 2026-07-22",
+      "instruction": "CONSERVER"
+    },
+    {
       "rank": 5,
-      "symbol": "CMCSA",
-      "name": "Comcast",
-      "progression_pct": 18.859654773232126,
-      "technical_status": "VENTE",
-      "technical_since": "2026-06-12",
-      "technical_label": "Vente depuis 2026-06-12",
+      "symbol": "GLW",
+      "name": "Corning Inc.",
+      "progression_pct": 21.244346719913153,
+      "technical_status": "PAS_ENTREE",
+      "technical_since": "2026-09-14",
+      "technical_label": "Pas de point d'entrée",
       "instruction": "NE PAS ACHETER"
     },
     {
       "rank": 6,
-      "symbol": "INTU",
-      "name": "Intuit",
-      "progression_pct": 17.620343900395664,
-      "technical_status": "VENTE",
-      "technical_since": "2025-11-05",
-      "technical_label": "Vente depuis 2025-11-05",
-      "instruction": "NE PAS ACHETER"
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "progression_pct": 16.894736642497943,
+      "technical_status": "POINT_ENTREE",
+      "technical_since": "2025-10-29",
+      "technical_label": "Point d'entrée depuis 2025-10-29",
+      "instruction": "CONSERVER"
     },
     {
       "rank": 7,
+      "symbol": "CIEN",
+      "name": "Ciena",
+      "progression_pct": 15.269175636227628,
+      "technical_status": "VENTE",
+      "technical_since": "2026-09-11",
+      "technical_label": "Vente depuis 2026-09-11",
+      "instruction": "NE PAS ACHETER"
+    },
+    {
+      "rank": 8,
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "progression_pct": 15.233263145027554,
+      "technical_status": "POINT_ENTREE",
+      "technical_since": "2026-07-13",
+      "technical_label": "Point d'entrée depuis 2026-07-13",
+      "instruction": "AUCUN ORDRE ACTIF"
+    },
+    {
+      "rank": 9,
       "symbol": "TGT",
       "name": "Target Corporation",
-      "progression_pct": 17.375467897557485,
+      "progression_pct": 14.63181844742143,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-01-30",
       "technical_label": "Point d'entrée depuis 2026-01-30",
       "instruction": "AUCUN ORDRE ACTIF"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "symbol": "RVTY",
       "name": "Revvity",
-      "progression_pct": 15.517716933860193,
+      "progression_pct": 13.308219938656961,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-07-20",
       "technical_label": "Point d'entrée depuis 2026-07-20",
       "instruction": "AUCUN ORDRE ACTIF"
-    },
-    {
-      "rank": 9,
-      "symbol": "VRTX",
-      "name": "Vertex Pharmaceuticals",
-      "progression_pct": 15.417531437565234,
-      "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-08-11",
-      "technical_label": "Point d'entrée depuis 2026-08-11",
-      "instruction": "AUCUN ORDRE ACTIF"
-    },
-    {
-      "rank": 10,
-      "symbol": "ADBE",
-      "name": "Adobe Inc.",
-      "progression_pct": 15.21346516413644,
-      "technical_status": "VENTE",
-      "technical_since": "2025-10-27",
-      "technical_label": "Vente depuis 2025-10-27",
-      "instruction": "NE PAS ACHETER"
     }
   ],
   "positions": [
@@ -367,6 +367,10 @@
     {
       "date": "2026-09-24",
       "equity": 10056.351974
+    },
+    {
+      "date": "2026-09-25",
+      "equity": 10102.4941
     }
   ]
 }
