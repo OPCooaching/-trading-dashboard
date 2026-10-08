@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-07T00:55:44.983999+00:00",
-  "signal_date": "2026-10-06",
+  "updated_at": "2026-10-08T01:12:41.779710+00:00",
+  "signal_date": "2026-10-07",
   "tracking_start_date": "2026-08-09",
   "currency": "$",
   "status": "Aucun ordre à exécuter à la prochaine ouverture",
   "summary": {
     "initial_capital": 10000.0,
-    "equity": 10307.966597,
+    "equity": 10268.280272,
     "cash": 67.19813114459407,
     "invested": 10240.768465556208,
-    "return_pct": 3.0796659700000006,
+    "return_pct": 2.6828027200000104,
     "max_drawdown_pct": -2.4887536663214194,
     "open_positions": 10,
     "max_positions": 10,
@@ -35,27 +35,27 @@
       "rank": 1,
       "symbol": "VLO",
       "name": "Valero Energy",
-      "progression_pct": 22.353877411572643,
+      "progression_pct": 28.33964977265524,
       "technical_status": "POINT_ENTREE",
-      "technical_since": "2025-11-07",
-      "technical_label": "Point d'entrée depuis 2025-11-07",
+      "technical_since": "2025-11-10",
+      "technical_label": "Point d'entrée depuis 2025-11-10",
       "instruction": "CONSERVER"
     },
     {
       "rank": 2,
-      "symbol": "CPRT",
-      "name": "Copart",
-      "progression_pct": 16.23578405605146,
+      "symbol": "HAL",
+      "name": "Halliburton",
+      "progression_pct": 15.932232231985633,
       "technical_status": "VENTE",
-      "technical_since": "2025-11-07",
-      "technical_label": "Vente depuis 2025-11-07",
+      "technical_since": "2026-08-24",
+      "technical_label": "Vente depuis 2026-08-24",
       "instruction": "NE PAS ACHETER"
     },
     {
       "rank": 3,
       "symbol": "COP",
       "name": "ConocoPhillips",
-      "progression_pct": 15.754956662584906,
+      "progression_pct": 15.58599515282233,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-07-13",
       "technical_label": "Point d'entrée depuis 2026-07-13",
@@ -63,39 +63,39 @@
     },
     {
       "rank": 4,
-      "symbol": "HAL",
-      "name": "Halliburton",
-      "progression_pct": 14.55565127717633,
-      "technical_status": "VENTE",
-      "technical_since": "2026-08-24",
-      "technical_label": "Vente depuis 2026-08-24",
-      "instruction": "NE PAS ACHETER"
-    },
-    {
-      "rank": 5,
       "symbol": "RVTY",
       "name": "Revvity",
-      "progression_pct": 13.988098438157937,
+      "progression_pct": 10.832023174834093,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-07-20",
       "technical_label": "Point d'entrée depuis 2026-07-20",
       "instruction": "AUCUN ORDRE ACTIF"
     },
     {
-      "rank": 6,
-      "symbol": "VRTX",
-      "name": "Vertex Pharmaceuticals",
-      "progression_pct": 12.827716566014292,
+      "rank": 5,
+      "symbol": "FCX",
+      "name": "Freeport-McMoRan",
+      "progression_pct": 10.054581619998082,
       "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-08-11",
-      "technical_label": "Point d'entrée depuis 2026-08-11",
+      "technical_since": "2026-07-30",
+      "technical_label": "Point d'entrée depuis 2026-07-30",
       "instruction": "AUCUN ORDRE ACTIF"
+    },
+    {
+      "rank": 6,
+      "symbol": "CPRT",
+      "name": "Copart",
+      "progression_pct": 9.912335272535433,
+      "technical_status": "VENTE",
+      "technical_since": "2025-11-10",
+      "technical_label": "Vente depuis 2025-11-10",
+      "instruction": "NE PAS ACHETER"
     },
     {
       "rank": 7,
       "symbol": "TGT",
       "name": "Target Corporation",
-      "progression_pct": 12.661246836847063,
+      "progression_pct": 9.524979945583457,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-01-30",
       "technical_label": "Point d'entrée depuis 2026-01-30",
@@ -103,33 +103,33 @@
     },
     {
       "rank": 8,
-      "symbol": "FDS",
-      "name": "FactSet",
-      "progression_pct": 10.386016512455075,
-      "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-07-29",
-      "technical_label": "Point d'entrée depuis 2026-07-29",
-      "instruction": "AUCUN ORDRE ACTIF"
+      "symbol": "T",
+      "name": "AT&T",
+      "progression_pct": 7.608236218103825,
+      "technical_status": "VENTE",
+      "technical_since": "2026-06-30",
+      "technical_label": "Vente depuis 2026-06-30",
+      "instruction": "NE PAS ACHETER"
     },
     {
       "rank": 9,
-      "symbol": "MDT",
-      "name": "Medtronic",
-      "progression_pct": 9.601949705714263,
-      "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-09-16",
-      "technical_label": "Point d'entrée depuis 2026-09-16",
-      "instruction": "AUCUN ORDRE ACTIF"
+      "symbol": "EQT",
+      "name": "EQT Corporation",
+      "progression_pct": 6.635713670542542,
+      "technical_status": "VENTE",
+      "technical_since": "2026-07-08",
+      "technical_label": "Vente depuis 2026-07-08",
+      "instruction": "NE PAS ACHETER"
     },
     {
       "rank": 10,
-      "symbol": "CRL",
-      "name": "Charles River Laboratories",
-      "progression_pct": 8.658803581329778,
+      "symbol": "VRTX",
+      "name": "Vertex Pharmaceuticals",
+      "progression_pct": 6.618020965816407,
       "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-07-22",
-      "technical_label": "Point d'entrée depuis 2026-07-22",
-      "instruction": "CONSERVER"
+      "technical_since": "2026-08-11",
+      "technical_label": "Point d'entrée depuis 2026-08-11",
+      "instruction": "AUCUN ORDRE ACTIF"
     }
   ],
   "positions": [
@@ -399,6 +399,10 @@
     {
       "date": "2026-10-06",
       "equity": 10307.966597
+    },
+    {
+      "date": "2026-10-07",
+      "equity": 10268.280272
     }
   ]
 }
