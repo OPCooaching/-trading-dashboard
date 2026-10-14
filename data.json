@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-13T02:41:09.145176+00:00",
-  "signal_date": "2026-10-12",
+  "updated_at": "2026-10-14T00:30:20.003790+00:00",
+  "signal_date": "2026-10-13",
   "tracking_start_date": "2026-08-09",
   "currency": "$",
   "status": "Aucun ordre à exécuter à la prochaine ouverture",
   "summary": {
     "initial_capital": 10000.0,
-    "equity": 10388.29441,
+    "equity": 10408.864202,
     "cash": 67.19813114459407,
     "invested": 10321.096278466093,
-    "return_pct": 3.8829441000000076,
+    "return_pct": 4.088642020000011,
     "max_drawdown_pct": -2.4887536663214194,
     "open_positions": 10,
     "max_positions": 10,
@@ -35,7 +35,7 @@
       "rank": 1,
       "symbol": "VLO",
       "name": "Valero Energy",
-      "progression_pct": 18.233858311597228,
+      "progression_pct": 11.67327575289876,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2025-11-14",
       "technical_label": "Point d'entrée depuis 2025-11-14",
@@ -43,93 +43,93 @@
     },
     {
       "rank": 2,
-      "symbol": "QCOM",
-      "name": "Qualcomm",
-      "progression_pct": 12.197440481124143,
-      "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-09-02",
-      "technical_label": "Point d'entrée depuis 2026-09-02",
-      "instruction": "AUCUN ORDRE ACTIF"
-    },
-    {
-      "rank": 3,
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "progression_pct": 8.761750931402212,
-      "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-03-06",
-      "technical_label": "Point d'entrée depuis 2026-03-06",
-      "instruction": "AUCUN ORDRE ACTIF"
-    },
-    {
-      "rank": 4,
       "symbol": "COP",
       "name": "ConocoPhillips",
-      "progression_pct": 8.614379537655514,
+      "progression_pct": 10.489536541382627,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-07-13",
       "technical_label": "Point d'entrée depuis 2026-07-13",
       "instruction": "AUCUN ORDRE ACTIF"
     },
     {
+      "rank": 3,
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "progression_pct": 9.915933183741355,
+      "technical_status": "VENTE",
+      "technical_since": "2026-10-13",
+      "technical_label": "Vente aujourd'hui",
+      "instruction": "NE PAS ACHETER"
+    },
+    {
+      "rank": 4,
+      "symbol": "RVTY",
+      "name": "Revvity",
+      "progression_pct": 9.353196164394939,
+      "technical_status": "POINT_ENTREE",
+      "technical_since": "2026-07-20",
+      "technical_label": "Point d'entrée depuis 2026-07-20",
+      "instruction": "AUCUN ORDRE ACTIF"
+    },
+    {
       "rank": 5,
-      "symbol": "HAL",
-      "name": "Halliburton",
-      "progression_pct": 8.15960702058145,
-      "technical_status": "VENTE",
-      "technical_since": "2026-08-24",
-      "technical_label": "Vente depuis 2026-08-24",
-      "instruction": "NE PAS ACHETER"
-    },
-    {
-      "rank": 6,
-      "symbol": "T",
-      "name": "AT&T",
-      "progression_pct": 7.463920428671478,
-      "technical_status": "VENTE",
-      "technical_since": "2026-06-30",
-      "technical_label": "Vente depuis 2026-06-30",
-      "instruction": "NE PAS ACHETER"
-    },
-    {
-      "rank": 7,
       "symbol": "MO",
       "name": "Altria",
-      "progression_pct": 7.145087952195106,
+      "progression_pct": 8.497224475591025,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-10-05",
       "technical_label": "Point d'entrée depuis 2026-10-05",
       "instruction": "AUCUN ORDRE ACTIF"
     },
     {
+      "rank": 6,
+      "symbol": "CPRT",
+      "name": "Copart",
+      "progression_pct": 7.961892484462152,
+      "technical_status": "VENTE",
+      "technical_since": "2025-11-14",
+      "technical_label": "Vente depuis 2025-11-14",
+      "instruction": "NE PAS ACHETER"
+    },
+    {
+      "rank": 7,
+      "symbol": "T",
+      "name": "AT&T",
+      "progression_pct": 7.851912736662303,
+      "technical_status": "VENTE",
+      "technical_since": "2026-06-30",
+      "technical_label": "Vente depuis 2026-06-30",
+      "instruction": "NE PAS ACHETER"
+    },
+    {
       "rank": 8,
-      "symbol": "AMD",
-      "name": "Advanced Micro Devices",
-      "progression_pct": 6.874704969778156,
-      "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-04-01",
-      "technical_label": "Point d'entrée depuis 2026-04-01",
-      "instruction": "CONSERVER"
+      "symbol": "HAL",
+      "name": "Halliburton",
+      "progression_pct": 7.102557579378788,
+      "technical_status": "VENTE",
+      "technical_since": "2026-08-24",
+      "technical_label": "Vente depuis 2026-08-24",
+      "instruction": "NE PAS ACHETER"
     },
     {
       "rank": 9,
       "symbol": "JKHY",
       "name": "Jack Henry & Associates",
-      "progression_pct": 6.16890403256749,
+      "progression_pct": 5.959399396802834,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-10-12",
-      "technical_label": "Point d'entrée aujourd'hui",
+      "technical_label": "Point d'entrée depuis 2026-10-12",
       "instruction": "AUCUN ORDRE ACTIF"
     },
     {
       "rank": 10,
-      "symbol": "RVTY",
-      "name": "Revvity",
-      "progression_pct": 5.4547000805849954,
+      "symbol": "PGR",
+      "name": "Progressive Corporation",
+      "progression_pct": 5.817020602619483,
       "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-07-20",
-      "technical_label": "Point d'entrée depuis 2026-07-20",
-      "instruction": "AUCUN ORDRE ACTIF"
+      "technical_since": "2026-10-01",
+      "technical_label": "Point d'entrée depuis 2026-10-01",
+      "instruction": "CONSERVER"
     }
   ],
   "positions": [
@@ -415,6 +415,10 @@
     {
       "date": "2026-10-12",
       "equity": 10388.29441
+    },
+    {
+      "date": "2026-10-13",
+      "equity": 10408.864202
     }
   ]
 }
