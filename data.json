@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-23T23:55:50.307725+00:00",
-  "signal_date": "2026-10-23",
+  "updated_at": "2026-10-27T00:41:56.249912+00:00",
+  "signal_date": "2026-10-26",
   "tracking_start_date": "2026-08-09",
   "currency": "$",
   "status": "Aucun ordre à exécuter à la prochaine ouverture",
   "summary": {
     "initial_capital": 10000.0,
-    "equity": 10455.833762,
+    "equity": 10581.744852,
     "cash": 67.19813114459407,
     "invested": 10388.635630495126,
-    "return_pct": 4.558337619999997,
+    "return_pct": 5.81744851999999,
     "max_drawdown_pct": -2.4887536663214194,
     "open_positions": 10,
     "max_positions": 10,
@@ -35,7 +35,7 @@
       "rank": 1,
       "symbol": "INTC",
       "name": "Intel",
-      "progression_pct": 45.62185013856839,
+      "progression_pct": 39.39256910442717,
       "technical_status": "PAS_ENTREE",
       "technical_since": "2026-10-15",
       "technical_label": "Pas de point d'entrée",
@@ -45,7 +45,7 @@
       "rank": 2,
       "symbol": "AMD",
       "name": "Advanced Micro Devices",
-      "progression_pct": 31.320176005635037,
+      "progression_pct": 31.127194079565633,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-04-01",
       "technical_label": "Point d'entrée depuis 2026-04-01",
@@ -55,7 +55,7 @@
       "rank": 3,
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "progression_pct": 21.647525522189515,
+      "progression_pct": 24.034467965718708,
       "technical_status": "VENTE",
       "technical_since": "2026-10-13",
       "technical_label": "Vente depuis 2026-10-13",
@@ -65,7 +65,7 @@
       "rank": 4,
       "symbol": "RVTY",
       "name": "Revvity",
-      "progression_pct": 20.698491746148704,
+      "progression_pct": 19.59636525754549,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-07-20",
       "technical_label": "Point d'entrée depuis 2026-07-20",
@@ -73,29 +73,29 @@
     },
     {
       "rank": 5,
-      "symbol": "VLO",
-      "name": "Valero Energy",
-      "progression_pct": 12.470250942328054,
-      "technical_status": "POINT_ENTREE",
-      "technical_since": "2025-11-24",
-      "technical_label": "Point d'entrée depuis 2025-11-24",
-      "instruction": "CONSERVER"
-    },
-    {
-      "rank": 6,
       "symbol": "A",
       "name": "Agilent Technologies",
-      "progression_pct": 11.675383670090977,
+      "progression_pct": 11.419905001806718,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-07-31",
       "technical_label": "Point d'entrée depuis 2026-07-31",
       "instruction": "AUCUN ORDRE ACTIF"
     },
     {
+      "rank": 6,
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "progression_pct": 11.249028541735374,
+      "technical_status": "POINT_ENTREE",
+      "technical_since": "2025-11-28",
+      "technical_label": "Point d'entrée depuis 2025-11-28",
+      "instruction": "CONSERVER"
+    },
+    {
       "rank": 7,
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "progression_pct": 7.725263764941737,
+      "progression_pct": 6.866305272347106,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-03-06",
       "technical_label": "Point d'entrée depuis 2026-03-06",
@@ -103,29 +103,29 @@
     },
     {
       "rank": 8,
-      "symbol": "GLW",
-      "name": "Corning Inc.",
-      "progression_pct": 4.94716892066529,
-      "technical_status": "VENTE",
-      "technical_since": "2026-10-07",
-      "technical_label": "Vente depuis 2026-10-07",
-      "instruction": "NE PAS ACHETER"
-    },
-    {
-      "rank": 9,
       "symbol": "TXN",
       "name": "Texas Instruments",
-      "progression_pct": 4.076141742392436,
+      "progression_pct": 6.226847612273678,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-09-18",
       "technical_label": "Point d'entrée depuis 2026-09-18",
       "instruction": "AUCUN ORDRE ACTIF"
     },
     {
+      "rank": 9,
+      "symbol": "ON",
+      "name": "ON Semiconductor",
+      "progression_pct": 5.435667387579479,
+      "technical_status": "VENTE",
+      "technical_since": "2026-09-28",
+      "technical_label": "Vente depuis 2026-09-28",
+      "instruction": "NE PAS ACHETER"
+    },
+    {
       "rank": 10,
       "symbol": "WAT",
       "name": "Waters Corporation",
-      "progression_pct": 3.826847133030986,
+      "progression_pct": 4.676822196005559,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-07-22",
       "technical_label": "Point d'entrée depuis 2026-07-22",
@@ -451,6 +451,10 @@
     {
       "date": "2026-10-23",
       "equity": 10455.833762
+    },
+    {
+      "date": "2026-10-26",
+      "equity": 10581.744852
     }
   ]
 }
