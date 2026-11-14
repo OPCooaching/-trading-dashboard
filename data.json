@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-13T02:02:49.667662+00:00",
-  "signal_date": "2026-11-12",
+  "updated_at": "2026-11-14T01:36:57.951727+00:00",
+  "signal_date": "2026-11-13",
   "tracking_start_date": "2026-08-09",
   "currency": "$",
   "status": "Aucun ordre à exécuter à la prochaine ouverture",
   "summary": {
     "initial_capital": 10000.0,
-    "equity": 10136.700542,
+    "equity": 9995.261374,
     "cash": -1.1368683772161603e-13,
-    "invested": 10087.858058526539,
-    "return_pct": 1.3670054200000115,
+    "invested": 9995.261373829075,
+    "return_pct": -0.04738626000000412,
     "max_drawdown_pct": -10.637305432546452,
     "open_positions": 10,
     "max_positions": 10,
@@ -35,7 +35,7 @@
       "rank": 1,
       "symbol": "CCL",
       "name": "Carnival Corporation",
-      "progression_pct": 17.458156832704063,
+      "progression_pct": 18.38925907385862,
       "technical_status": "VENTE",
       "technical_since": "2026-05-04",
       "technical_label": "Vente depuis 2026-05-04",
@@ -45,7 +45,7 @@
       "rank": 2,
       "symbol": "A",
       "name": "Agilent Technologies",
-      "progression_pct": 15.964209451143919,
+      "progression_pct": 14.39372893183155,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-07-31",
       "technical_label": "Point d'entrée depuis 2026-07-31",
@@ -53,29 +53,29 @@
     },
     {
       "rank": 3,
-      "symbol": "VLO",
-      "name": "Valero Energy",
-      "progression_pct": 15.801931514233392,
+      "symbol": "CRL",
+      "name": "Charles River Laboratories",
+      "progression_pct": 12.007602550211804,
       "technical_status": "POINT_ENTREE",
-      "technical_since": "2025-12-16",
-      "technical_label": "Point d'entrée depuis 2025-12-16",
+      "technical_since": "2026-07-22",
+      "technical_label": "Point d'entrée depuis 2026-07-22",
       "instruction": "CONSERVER"
     },
     {
       "rank": 4,
-      "symbol": "AMD",
-      "name": "Advanced Micro Devices",
-      "progression_pct": 13.213009421711885,
-      "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-11-09",
-      "technical_label": "Point d'entrée depuis 2026-11-09",
-      "instruction": "CONSERVER"
+      "symbol": "DECK",
+      "name": "Deckers Brands",
+      "progression_pct": 11.056955936135825,
+      "technical_status": "VENTE",
+      "technical_since": "2026-06-26",
+      "technical_label": "Vente depuis 2026-06-26",
+      "instruction": "NE PAS ACHETER"
     },
     {
       "rank": 5,
       "symbol": "RCL",
       "name": "Royal Caribbean Group",
-      "progression_pct": 10.68594800638607,
+      "progression_pct": 10.930200379057764,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-10-26",
       "technical_label": "Point d'entrée depuis 2026-10-26",
@@ -83,53 +83,53 @@
     },
     {
       "rank": 6,
-      "symbol": "CRL",
-      "name": "Charles River Laboratories",
-      "progression_pct": 10.671355392892568,
-      "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-07-22",
-      "technical_label": "Point d'entrée depuis 2026-07-22",
-      "instruction": "CONSERVER"
+      "symbol": "ON",
+      "name": "ON Semiconductor",
+      "progression_pct": 10.660658613798546,
+      "technical_status": "VENTE",
+      "technical_since": "2026-09-28",
+      "technical_label": "Vente depuis 2026-09-28",
+      "instruction": "NE PAS ACHETER"
     },
     {
       "rank": 7,
-      "symbol": "MRVL",
-      "name": "Marvell Technology",
-      "progression_pct": 10.660169788884977,
-      "technical_status": "PAS_ENTREE",
-      "technical_since": "2026-10-30",
-      "technical_label": "Pas de point d'entrée",
-      "instruction": "CONSERVER"
-    },
-    {
-      "rank": 8,
       "symbol": "ZBRA",
       "name": "Zebra Technologies",
-      "progression_pct": 9.964109591163473,
+      "progression_pct": 10.648343358271806,
       "technical_status": "POINT_ENTREE",
       "technical_since": "2026-07-17",
       "technical_label": "Point d'entrée depuis 2026-07-17",
       "instruction": "CONSERVER"
     },
     {
-      "rank": 9,
-      "symbol": "RVTY",
-      "name": "Revvity",
-      "progression_pct": 8.509871883032494,
+      "rank": 8,
+      "symbol": "HAS",
+      "name": "Hasbro",
+      "progression_pct": 10.20156808401389,
       "technical_status": "POINT_ENTREE",
-      "technical_since": "2026-07-20",
-      "technical_label": "Point d'entrée depuis 2026-07-20",
+      "technical_since": "2026-10-14",
+      "technical_label": "Point d'entrée depuis 2026-10-14",
+      "instruction": "AUCUN ORDRE ACTIF"
+    },
+    {
+      "rank": 9,
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "progression_pct": 10.1120806642371,
+      "technical_status": "POINT_ENTREE",
+      "technical_since": "2025-12-17",
+      "technical_label": "Point d'entrée depuis 2025-12-17",
       "instruction": "CONSERVER"
     },
     {
       "rank": 10,
-      "symbol": "CCI",
-      "name": "Crown Castle",
-      "progression_pct": 8.36859693299381,
-      "technical_status": "VENTE",
-      "technical_since": "2026-08-03",
-      "technical_label": "Vente depuis 2026-08-03",
-      "instruction": "NE PAS ACHETER"
+      "symbol": "LLY",
+      "name": "Lilly (Eli)",
+      "progression_pct": 10.000705713800517,
+      "technical_status": "POINT_ENTREE",
+      "technical_since": "2026-07-10",
+      "technical_label": "Point d'entrée depuis 2026-07-10",
+      "instruction": "AUCUN ORDRE ACTIF"
     }
   ],
   "positions": [
@@ -138,100 +138,100 @@
       "name": "Arch Capital Group",
       "entry_date": "2026-08-11",
       "entry_price": 99.00019660949707,
-      "current_price": 109.16999816894531,
+      "current_price": 109.61000061035156,
       "shares": 10.050736359107777,
-      "current_value": 1097.2388699203482,
-      "return_pct": 9.723886992034814
+      "current_value": 1101.6612184562862,
+      "return_pct": 10.166121845628616
     },
     {
       "symbol": "AMD",
       "name": "Advanced Micro Devices",
       "entry_date": "2026-08-11",
       "entry_price": 479.4873901367188,
-      "current_price": 552.9000244140625,
+      "current_price": 534.0599975585938,
       "shares": 2.072107811431261,
-      "current_value": 1145.668459528914,
-      "return_pct": 14.736964796316299
+      "current_value": 1106.6298927141224,
+      "return_pct": 10.827311328009115
     },
     {
       "symbol": "CRL",
       "name": "Charles River Laboratories",
       "entry_date": "2026-08-11",
       "entry_price": 277.6085852050781,
-      "current_price": 342.69000244140625,
+      "current_price": 337.9700012207031,
       "shares": 3.573651889169194,
-      "current_value": 1224.6547746241272,
-      "return_pct": 22.829442325866587
+      "current_value": 1207.7871333448807,
+      "return_pct": 21.137665169877053
     },
     {
       "symbol": "MCO",
       "name": "Moody's Corporation",
       "entry_date": "2026-08-13",
       "entry_price": 482.8100885849688,
-      "current_price": 514.9299926757812,
+      "current_price": 508.20001220703125,
       "shares": 2.0378522646873525,
-      "current_value": 1049.3512517297827,
-      "return_pct": 6.12208900146658
+      "current_value": 1035.6365457902389,
+      "return_pct": 4.7351051464933125
     },
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
       "entry_date": "2026-10-29",
       "entry_price": 224.7613554382324,
-      "current_price": 168.8000030517578,
+      "current_price": 156.75999450683594,
       "shares": 3.59801707717037,
-      "current_value": 607.3452936066352,
-      "return_pct": -25.271761369268
+      "current_value": 564.0251372527291,
+      "return_pct": -30.60190719506575
     },
     {
       "symbol": "PGR",
       "name": "Progressive Corporation",
       "entry_date": "2026-08-11",
       "entry_price": 214.79669815063477,
-      "current_price": 233.52999877929688,
+      "current_price": 235.77999877929688,
       "shares": 4.6049904842084945,
-      "current_value": 1075.4034221558834,
-      "return_pct": 8.180507423998051
+      "current_value": 1085.7646507453526,
+      "return_pct": 9.222798106036013
     },
     {
       "symbol": "RVTY",
       "name": "Revvity",
       "entry_date": "2026-11-04",
       "entry_price": 169.36690246582032,
-      "current_price": 158.25,
+      "current_price": 154.38999938964844,
       "shares": 5.748515960668551,
-      "current_value": 909.7026507757982,
-      "return_pct": -7.02865537796471
+      "current_value": 887.5133756590019,
+      "return_pct": -9.296392799678854
     },
     {
       "symbol": "VLO",
       "name": "Valero Energy",
       "entry_date": "2026-08-12",
       "entry_price": 324.45239013671875,
-      "current_price": 363.7099914550781,
+      "current_price": 379.8299865722656,
       "shares": 3.0219431905264313,
-      "current_value": 1099.1109320040998,
-      "return_pct": 11.541939591669891
+      "current_value": 1147.8246414798039,
+      "return_pct": 16.48559130271017
     },
     {
       "symbol": "WELL",
       "name": "Welltower",
       "entry_date": "2026-08-11",
       "entry_price": 235.6936006164551,
-      "current_price": 247.35000610351562,
+      "current_price": 244.4600067138672,
       "shares": 4.1842704482437565,
-      "current_value": 1034.9793209118532,
-      "return_pct": 4.423458428443006
+      "current_value": 1022.8867818703047,
+      "return_pct": 3.2033908170564063
     },
     {
       "symbol": "ZBRA",
       "name": "Zebra Technologies",
       "entry_date": "2026-08-11",
       "entry_price": 381.8607864379883,
-      "current_price": 327.44000244140625,
+      "current_price": 324.0,
       "shares": 2.5788024583838074,
-      "current_value": 844.4030832690984,
-      "return_pct": -14.678081836559198
+      "current_value": 835.5319965163536,
+      "return_pct": -15.57445248339311
     }
   ],
   "recent_closed_trades": [
@@ -522,6 +522,10 @@
     {
       "date": "2026-11-12",
       "equity": 10136.700542
+    },
+    {
+      "date": "2026-11-13",
+      "equity": 9995.261374
     }
   ]
 }
